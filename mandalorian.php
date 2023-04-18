@@ -13,18 +13,23 @@ include_once("conexfinal.php");
     header("Location: mandalorian.php");
     exit();
   }
-  ?>
-  
-
-
-
+?>
 
 <!DOCTYPE html>
 <head>
-    <link rel="stylesheet" href="./css/style.css">
+    
+    <link rel="stylesheet" href="./css/style.css"/>
+    
+
 </head>
 
 <body>
+    <!--Fem els buttons de login i registre-->
+    <div class = "registerandlogin">
+        <input type="button" onclick="location.href='https://google.com';" value="Login" />
+        <input type="button" onclick="location.href='registerform.php';" value="Registrarse" />
+    </div>
+
     <div class ="default-header-color">
         <img src="./img/header-color.png">
     </div>
