@@ -1,0 +1,130 @@
+.formu{
+    text-align: center;
+    color: white;
+
+
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 90px;
+
+}
+
+
+
+body{
+    background-color: #3c3434;
+    
+}
+
+
+/*CSS default del header y etc.. */
+
+.default-header-color img{
+    height: 75px;
+    margin-bottom: 20px;
+    width: 1600px;
+    margin-top: -11px;
+    margin-left: -60px;
+}
+
+
+
+.logo img{
+    position: absolute;
+    height: auto;
+    width: 160px;
+    object-position:50% 50%;
+    margin-top: -90px;
+
+}
+
+.header-links{
+    position: absolute;
+    margin-top:-39px;
+    padding: 5px;
+    text-decoration: none;
+
+}
+.header-links:hover{
+    color:wheat;
+}
+
+.laterales img{
+    height: 100%;
+    width: 8%;
+    position: absolute;
+    margin-top: -25px;
+    margin-left: -10px;
+}
+
+
+
+.intro{
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.title{
+    text-align: center;
+}
+
+
+img{
+    width: 1000px;
+}
+
+.main_img{ #???
+    width: 1000px;
+}
+
+body{
+    background-image: url("./img/fondo.png");
+    background-color: #282323;
+    
+}
+
+#titleimg{
+    width: 1000px;
+}
+
+
+
+.bodytext{
+    font-size: 9px;
+    text-align: justify;
+    margin-left: 170px;
+    margin-right: 200px;
+    margin-top: 4%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: wheat
+}
+
+.newsletter{
+    text-align: center;
+
+}
+    
+    
+.imagenbbyd img{
+    float: center;
+    width: auto;
+    height: 200px;
+}
+
+.imagenjett img{
+    float: right;
+    width: auto;
+    height: 200px;
+    margin-top: -13%;
+    margin-left: 20px;
+    
+}
+
+
